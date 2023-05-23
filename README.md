@@ -14,7 +14,7 @@ An analysis, that uncovers several insights of the Parliament elections in Czech
 
 https://github.com/P33Rview/Bowling_league_app
 
-An app used to visualize and track the perfomance of players in bowling matches. This project was initiated due to insufficient shareability of Power BI dashboard, which was the first PoC of the project.
+An app used to visualize and track the perfomance of players in bowling matches. This project was initiated due to insufficient shareability of Power BI dashboard, which was in a form the PoC of the project.
 
 
 ----
