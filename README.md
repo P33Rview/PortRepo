@@ -19,6 +19,8 @@ An app used to visualize and track the perfomance of players in bowling matches.
 3) ## **Predictive Analysis of Savings Account Open Rate**: 
 ![Python](https://img.shields.io/badge/python-3670A0?logo=python&logoColor=ffdd54) ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?logo=jupyter&logoColor=white) 
 
+https://github.com/P33Rview/savings_account
+
 In this project, I predict how likely a new or current customer is to open a savings account in a bank using a logistic regression.
 
 ----
